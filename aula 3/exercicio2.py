@@ -6,3 +6,4 @@ print(f"o IMC é: {IMC}")
 
 
 
+
