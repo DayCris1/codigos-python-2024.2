@@ -12,17 +12,7 @@ if(EscolhaLanche == 1):
         oferecercombo = input("Gostaria de adicionar o mais um item por mais R$2,00?").lower()
         if(oferecercombo == "sim"):
             print(f"Seu pedido é {item1} + {item2} + {item3}, totalizando R$22,00")
-        else:
-            print(f"Seu pedido é {item1} + {item2},  totalizando R$20,00")
-    elif (adicional == 3):
-        print(f"Você escolheu {item1} e {item3}")
-        oferecercombo = input("Gostaria de adicionar o refrigerante por mais R$2,00?").lower()
-        if(oferecercombo == "sim"):
-            print(f"Seu pedido é {item1} + {item2} + {item3}, totalizando R$22,00")
-        else:
-            print(f"Seu pedido é {item1} + {item3},  totalizando R$20,00")
-    else:
-        print(f"Seu pedido é {item1},  totalizando R$10,00") 
+
 
 if(EscolhaLanche == 2):
     print(f"Você escolheu {item2}")
