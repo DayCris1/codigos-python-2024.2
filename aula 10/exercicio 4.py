@@ -15,4 +15,3 @@ print("lista de poderes após remover choque do trovão", poderes)
 #exibindo o tamanho da lista
 print("numero de poderes na lista:", len(poderes))
 
-
