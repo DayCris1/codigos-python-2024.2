@@ -89,6 +89,6 @@ while assaltante[1][0] > 0 and aventureiro[1][0] > 0:
     for linha in assaltante:
         print(linha)
     print(f"multiplicador de critico:", Variaveassaltante)
-    time.sleep(4)
+    time.sleep(2)
 
 
