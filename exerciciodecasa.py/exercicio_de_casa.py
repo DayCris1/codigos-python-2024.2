@@ -16,7 +16,7 @@ def dividir(a, b):
 
 # Função principal da calculadora
 def calculadora():
-    print("Selecione a operação:")
+    print("selecione a opção:")
     print("1. Soma")
     print("2. Subtração")
     print("3. Multiplicação")
